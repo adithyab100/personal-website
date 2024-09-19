@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Swarm Algorithms for Dynamic Task Allocation in Unknown Environments"
+    authors: <strong>Adithya Balachandran</strong>, Noble Harasha, Nancy Lynch
+    conference_short: 
+    conference: Submitted to ICRA 2025
+    pdf: https://arxiv.org/abs/2409.09550
+    code: https://github.com/adithyab100/swarm-dyn-task
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Hierarchical Grammar-Induced Geometry for Data-Efficient Molecular Property Prediction"
+    authors: Minghao Guo, Veronika Thost, Samuel Song, <strong>Adithya Balachandran</strong>, Payel Das, Jie Chen, Wojciech Matusik
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2023.
+    pdf: https://proceedings.mlr.press/v202/guo23h/guo23h.pdf
+    code: https://github.com/gmh14/Geo-DEG
+
+  - title: "Product expansions of q-character polynomials"
+    authors: <strong>Adithya Balachandran</strong>, Nir Gadish, Andrew Huang, Siwen Sun
+    conference: Journal of Algebraic Combinatorics, 2023.
+    pdf: https://link.springer.com/article/10.1007/s10801-022-01208-0
